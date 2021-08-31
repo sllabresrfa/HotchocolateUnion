@@ -1,4 +1,4 @@
-Uncomments line 25 in CompanyQuery.cs 
+Uncomment line 25 in CompanyQuery.cs
 
 query GetCompanies {
   companies {
