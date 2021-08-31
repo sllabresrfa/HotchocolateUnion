@@ -1,5 +1,6 @@
 Uncomment line 25 in CompanyQuery.cs
 
+```
 query GetCompanies {
   companies {
     companyId
@@ -16,3 +17,4 @@ query GetCompanies {
     }
   }
 }
+```
