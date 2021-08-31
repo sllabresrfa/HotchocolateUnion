@@ -45,3 +45,5 @@ bld/
 .vs/
 
 appsettings.*.json
+
+*.db
